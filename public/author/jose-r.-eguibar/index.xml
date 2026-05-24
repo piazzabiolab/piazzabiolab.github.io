@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jose R. Eguibar | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/jose-r.-eguibar/</link>
-      <atom:link href="https://biophotonicscio.com/author/jose-r.-eguibar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jose-r.-eguibar/</link>
+      <atom:link href="http://localhost:1313/author/jose-r.-eguibar/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose R. Eguibar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Jose R. Eguibar</title>
-      <link>https://biophotonicscio.com/author/jose-r.-eguibar/</link>
+      <link>http://localhost:1313/author/jose-r.-eguibar/</link>
     </image>
     
     <item>
       <title>4-aminopyridine improves evoked potentials and ambulation in the taiep rat: A model of hypomyelination with atrophy of basal ganglia and cerebellum</title>
-      <link>https://biophotonicscio.com/publication/eguibar-2024-aminopyridine/</link>
+      <link>http://localhost:1313/publication/eguibar-2024-aminopyridine/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/eguibar-2024-aminopyridine/</guid>
+      <guid>http://localhost:1313/publication/eguibar-2024-aminopyridine/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>H-ABC tubulinopathy revealed by label-free second harmonic generation microscopy</title>
-      <link>https://biophotonicscio.com/publication/alata-2022-h/</link>
+      <link>http://localhost:1313/publication/alata-2022-h/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/alata-2022-h/</guid>
+      <guid>http://localhost:1313/publication/alata-2022-h/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Auditory impairment in H-ABC tubulinopathy</title>
-      <link>https://biophotonicscio.com/publication/lopez-2021-auditory/</link>
+      <link>http://localhost:1313/publication/lopez-2021-auditory/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/lopez-2021-auditory/</guid>
+      <guid>http://localhost:1313/publication/lopez-2021-auditory/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MRI features in a rat model of H-ABC tubulinopathy</title>
-      <link>https://biophotonicscio.com/publication/garduno-2020-mri/</link>
+      <link>http://localhost:1313/publication/garduno-2020-mri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/garduno-2020-mri/</guid>
+      <guid>http://localhost:1313/publication/garduno-2020-mri/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Carla Jaramillo-Restrepo | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/carla-jaramillo-restrepo/</link>
-      <atom:link href="https://biophotonicscio.com/author/carla-jaramillo-restrepo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Carla Jaramillo-Restrepo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <title>Carla Jaramillo Restrepo | Biophotonics Research Group</title>
+    <link>http://localhost:1313/author/carla-jaramillo-restrepo/</link>
+      <atom:link href="http://localhost:1313/author/carla-jaramillo-restrepo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carla Jaramillo Restrepo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
-      <title>Carla Jaramillo-Restrepo</title>
-      <link>https://biophotonicscio.com/author/carla-jaramillo-restrepo/</link>
+      <url>http://localhost:1313/author/carla-jaramillo-restrepo/avatar_hu_100b02e47bd49fbf.jpeg</url>
+      <title>Carla Jaramillo Restrepo</title>
+      <link>http://localhost:1313/author/carla-jaramillo-restrepo/</link>
     </image>
-    
-    <item>
-      <title>H-ABC tubulinopathy revealed by label-free second harmonic generation microscopy</title>
-      <link>https://biophotonicscio.com/publication/alata-2022-h/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/alata-2022-h/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

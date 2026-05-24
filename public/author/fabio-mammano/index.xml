@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabio Mammano | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/fabio-mammano/</link>
-      <atom:link href="https://biophotonicscio.com/author/fabio-mammano/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/fabio-mammano/</link>
+      <atom:link href="http://localhost:1313/author/fabio-mammano/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabio Mammano</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Fabio Mammano</title>
-      <link>https://biophotonicscio.com/author/fabio-mammano/</link>
+      <link>http://localhost:1313/author/fabio-mammano/</link>
     </image>
     
     <item>
       <title>Pathogenetic role of the deafness-related M34T mutation of Cx26</title>
-      <link>https://biophotonicscio.com/publication/bicego-2006-pathogenetic/</link>
+      <link>http://localhost:1313/publication/bicego-2006-pathogenetic/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/bicego-2006-pathogenetic/</guid>
+      <guid>http://localhost:1313/publication/bicego-2006-pathogenetic/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Permeability and gating properties of human connexins 26 and 30 expressed in HeLa cells</title>
-      <link>https://biophotonicscio.com/publication/beltramello-2005-permeability/</link>
+      <link>http://localhost:1313/publication/beltramello-2005-permeability/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/beltramello-2005-permeability/</guid>
+      <guid>http://localhost:1313/publication/beltramello-2005-permeability/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A mechanism for sensing noise damage in the inner ear</title>
-      <link>https://biophotonicscio.com/publication/gale-2004-mechanism/</link>
+      <link>http://localhost:1313/publication/gale-2004-mechanism/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/gale-2004-mechanism/</guid>
+      <guid>http://localhost:1313/publication/gale-2004-mechanism/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Permeability properties of Connexin 26 and Connexin 30 channels in the inner ear</title>
-      <link>https://biophotonicscio.com/publication/beltramello-2003-permeability/</link>
+      <link>http://localhost:1313/publication/beltramello-2003-permeability/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/beltramello-2003-permeability/</guid>
+      <guid>http://localhost:1313/publication/beltramello-2003-permeability/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

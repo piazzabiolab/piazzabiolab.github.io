@@ -4,11 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Biophotonics Research Group # Website name
-<<<<<<< HEAD
 baseURL: 'https://piazzabiolab.github.io/' # Website URL
-=======
-baseURL: "https://piazzabiolab.github.io/" # Website URL
->>>>>>> c9bd1cf (Fix baseURL)
 
 ############################
 ## LANGUAGE

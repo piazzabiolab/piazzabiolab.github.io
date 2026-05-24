@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Britta Weinhausen | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/britta-weinhausen/</link>
-      <atom:link href="https://biophotonicscio.com/author/britta-weinhausen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/britta-weinhausen/</link>
+      <atom:link href="http://localhost:1313/author/britta-weinhausen/index.xml" rel="self" type="application/rss+xml" />
     <description>Britta Weinhausen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Britta Weinhausen</title>
-      <link>https://biophotonicscio.com/author/britta-weinhausen/</link>
+      <link>http://localhost:1313/author/britta-weinhausen/</link>
     </image>
     
     <item>
       <title>Revealing the structure of stereociliary actin by X-ray nanoimaging</title>
-      <link>https://biophotonicscio.com/publication/piazza-2014-revealing/</link>
+      <link>http://localhost:1313/publication/piazza-2014-revealing/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/piazza-2014-revealing/</guid>
+      <guid>http://localhost:1313/publication/piazza-2014-revealing/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

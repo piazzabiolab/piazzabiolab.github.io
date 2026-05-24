@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Hernández Velázquez | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/daniel-hernandez-velazquez/</link>
-      <atom:link href="https://biophotonicscio.com/author/daniel-hernandez-velazquez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/daniel-hernandez-velazquez/</link>
+      <atom:link href="http://localhost:1313/author/daniel-hernandez-velazquez/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Hernández Velázquez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://biophotonicscio.com/author/daniel-hernandez-velazquez/avatar_hu_ece3068045afbbd3.png</url>
+      <url>http://localhost:1313/author/daniel-hernandez-velazquez/avatar_hu_e210bb7992368845.png</url>
       <title>Daniel Hernández Velázquez</title>
-      <link>https://biophotonicscio.com/author/daniel-hernandez-velazquez/</link>
+      <link>http://localhost:1313/author/daniel-hernandez-velazquez/</link>
     </image>
     
   </channel>

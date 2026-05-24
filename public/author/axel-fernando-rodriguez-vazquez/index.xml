@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Axel Fernando Rodriguez Vazquez | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/axel-fernando-rodriguez-vazquez/</link>
-      <atom:link href="https://biophotonicscio.com/author/axel-fernando-rodriguez-vazquez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/axel-fernando-rodriguez-vazquez/</link>
+      <atom:link href="http://localhost:1313/author/axel-fernando-rodriguez-vazquez/index.xml" rel="self" type="application/rss+xml" />
     <description>Axel Fernando Rodriguez Vazquez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://biophotonicscio.com/author/axel-fernando-rodriguez-vazquez/avatar_hu_6daacf2476b166af.jpeg</url>
+      <url>http://localhost:1313/author/axel-fernando-rodriguez-vazquez/avatar_hu_6daacf2476b166af.jpeg</url>
       <title>Axel Fernando Rodriguez Vazquez</title>
-      <link>https://biophotonicscio.com/author/axel-fernando-rodriguez-vazquez/</link>
+      <link>http://localhost:1313/author/axel-fernando-rodriguez-vazquez/</link>
     </image>
     
   </channel>

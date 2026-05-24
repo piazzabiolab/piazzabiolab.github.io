@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Reséndiz | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/fernando-resendiz/</link>
-      <atom:link href="https://biophotonicscio.com/author/fernando-resendiz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/fernando-resendiz/</link>
+      <atom:link href="http://localhost:1313/author/fernando-resendiz/index.xml" rel="self" type="application/rss+xml" />
     <description>Fernando Reséndiz</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://biophotonicscio.com/author/fernando-resendiz/avatar_hu_6e0a370a4dca337e.jpg</url>
+      <url>http://localhost:1313/author/fernando-resendiz/avatar_hu_6e0a370a4dca337e.jpg</url>
       <title>Fernando Reséndiz</title>
-      <link>https://biophotonicscio.com/author/fernando-resendiz/</link>
+      <link>http://localhost:1313/author/fernando-resendiz/</link>
     </image>
     
   </channel>

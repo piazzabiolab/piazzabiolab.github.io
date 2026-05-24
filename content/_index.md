@@ -9,8 +9,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Biophotonics Lab!
+        content:
         align: center
         background:
           image:
@@ -19,28 +19,28 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 
-        content: 'Explore the lab!'
+      - title: 3D Lab Tour
+        content: 'Explore a LiDAR-based representation of our lab space.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: lab1.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
         link:
-          icon: graduation-cap
+          icon: cube
           icon_pack: fas
-          text: Lab tour
+          text: Open 3D tour
           url: ../labtour/
 
-      - title: El lab es muy cooool
-        content: 'last month we had fooood!!'
+      - title: Cool images we are proud of!
+        content: 'Take a look!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: chamber1.jpeg
             filters:
               brightness: 0.5
           position: center
@@ -48,8 +48,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Go to Gallery
+          url: ../gallery/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -59,14 +59,6 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000   
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
   - block: hero
     content:
       title: |
@@ -78,13 +70,21 @@ sections:
         <br>
         
         The **Piazza Research Group** has been a center of excellence for biophotonics, teaching, and practice since its founding in 2014.
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
   
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 9
       filters:
         author: ''
         category: ''
@@ -95,8 +95,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '3'
   
   - block: collection
     content:

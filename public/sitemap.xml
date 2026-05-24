@@ -2,335 +2,415 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://biophotonicscio.com/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/carla-mejorposter/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/eguibar-2024-aminopyridine/</loc>
+    <loc>http://localhost:1313/post/20-12-01-noticio/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/20-12-02-fernandoesp/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/others/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/a.-lopez-juarez/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/c.-jaramillo-restrepo/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/jaramillo-2026-habc/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/i.-hernandez-morales/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/v.-piazza/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/eguibar-20244-amino/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/alejandra-lopez-juarez/</loc>
+    <loc>http://localhost:1313/author/c.-cortes/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/anke-kleinert-altamirano/</loc>
+    <loc>http://localhost:1313/author/j.-r.-eguibar/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/author/v.-h.-hernandez/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/authors/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/a.-m.-lecona/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/blanca-morales-campos/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/a.-renteria-gomez/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/carmen-cortes/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/delatorre-2023-concurrent/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/diego-carmona/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/lecona-2023-crk-12/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/emilio-salceda/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/e.-d.-h.-velazquez/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/jose-r.-eguibar/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/j.-a.-vera-nunez/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/manuel-roncagliolo/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/j.-mauricio-flores-m./</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/j.-o.-c.-jimenez-halla/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/k.-nanjareddy/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/valeria-piazza/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/l.-blanco/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/victor-h.-hernandez/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/piazza-2023-label/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/</loc>
+    <loc>http://localhost:1313/author/m.-a.-claudio-catalan/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/m.-alata/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/m.-h.-de-la-torre-i./</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/m.-kurva/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/m.-lara/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/kurva-2023-multi/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/labtour/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/author/carla-jaramillo-restrepo/</loc>
+    <loc>http://localhost:1313/author/g.-garnica/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/alata-2022-h/</loc>
+    <loc>http://localhost:1313/publication/alata-2022-h/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/milvia-alata/</loc>
+    <loc>http://localhost:1313/author/i.-a.-t.-milvia/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/angeles-garduno-robles/</loc>
+    <loc>http://localhost:1313/publication/milvia-2022-imaging/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/piazza-2022-myelin/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/s.-calixto/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/calixto-2022-surface/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/a.-gonzalez-vega/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/arturo-gonzalez-vega/</loc>
+    <loc>http://localhost:1313/author/a.-gonzalez-vega/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/lopez-2021-auditory/</loc>
+    <loc>http://localhost:1313/author/a.-kleinert-altamirano/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/carlos-villasenor-mora/</loc>
+    <loc>http://localhost:1313/author/a.-m.-gonzalez-suarez/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/luis-carlos-padierna/</loc>
+    <loc>http://localhost:1313/publication/lopez-2021-auditory/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/lopez-2021-cover/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/post/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/j.-c.-ahumada-juarez/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/post/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/j.-l.-garcia-cordero/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/garduno-2020-mri/</loc>
+    <loc>http://localhost:1313/publication/alata-2021-longitudinal/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/n.-c.-bruce/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/calixto-2021-rejillas/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/eguibar-2021-myelin/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/v.-h.-h.-gonzalez/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/tejedo-20203/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/sergio-pantano/</loc>
+    <loc>http://localhost:1313/author/a.-garduno-robles/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/claude-p.-lechene/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/j.-c.-m.-cervantes/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/david-p.-corey/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/m.-i.-a.-tejedo/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/duan-sun-zhang/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/garduno-2020-mri/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/jonathan-e.-bird/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/calixto-2020-optofluidic/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/lisa-l.-cunningham/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/s.-pantano/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/drummond-2015-live/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/tejedo-20193/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/meghan-c.-drummond/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/a.-g.-vega/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/melanie-barzik/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/a.-s.-j.-roldan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/thomas-b.-friedman/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/c.-v.-santiago-lona/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/ana-diaz/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/e.-de-la-rosa/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/britta-weinhausen/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/g.-ramirez-garcia/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/christian-dammann/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/calixto-2019-liquid/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/christian-maurer/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/piazza-2019-liquids/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/manfred-burghammer/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/m.-a.-honorato-colin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/michael-reynolds/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/m.-f.-moreno/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/piazza-2014-revealing/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/m.-rodriguez/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/sarah-koster/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/m.-s.-hernandez-montes/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/agnieszka-k.-rzadzinska/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/calixto-2019-stimuli/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/benjamin-j.-perrin/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/t.-lopez-luke/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/haydn-m.-prosser/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/ramirez-2019-theranostic/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/j.-collin-poczatek/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/santiago-2019-tympanic/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/james-m.-ervasti/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/v.-f.-maranon-ruiz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/mei-wang/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/ramirez-2018-immunoconjugated/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/zhang-2012-multi/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/rivas-2018-different/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/edoardo-arslan/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/e.-cepeda-perez/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/elona-cama/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/e.-lazaro-lazaro/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/fabio-mammano/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/i.-aguilar-hernandez/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/feliksas-f.-bukauskas/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/cepeda-2018-interaction/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/leopoldo-zelante/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/p.-mendoza-mendez/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/martina-beltramello/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/r.-rivas-barbosa/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/massimiliano-bicego/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/s.-s.-panikar/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/massimo-carella/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/t.-still/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/paola-dandrea/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/bicego-2006-pathogenetic/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/labtour/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/roberto-bruzzone/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/angeles-garduno/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/salvatore-melchionda/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/axel-fernando-rodriguez-vazquez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/beltramello-2005-permeability/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/carla-jaramillo-restrepo/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/tullio-pozzan/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/gale-2004-mechanism/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/daniel-hernandez-velazquez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/catalin-d.-ciubotaru/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/juan-c.-martinez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/jonathan-e.-gale/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/karen-castaneda/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/publication/beltramello-2003-permeability/</loc>
-    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/milvia-alata/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/admin/</loc>
+    <loc>http://localhost:1313/author/sofia-quesada/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/axel-fernando-rodriguez-vazquez/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://biophotonicscio.com/author/carla-jaramillo-restrepo/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/author/daniel-hernandez-velazquez/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/author/fernando-resendiz/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/author/sofia-quesada/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/tags/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://biophotonicscio.com/author/valeria-piazza/</loc>
+    <loc>http://localhost:1313/author/valeria-piazza/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

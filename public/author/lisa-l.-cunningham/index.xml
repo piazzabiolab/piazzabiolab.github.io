@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa L. Cunningham | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/lisa-l.-cunningham/</link>
-      <atom:link href="https://biophotonicscio.com/author/lisa-l.-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lisa-l.-cunningham/</link>
+      <atom:link href="http://localhost:1313/author/lisa-l.-cunningham/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa L. Cunningham</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Lisa L. Cunningham</title>
-      <link>https://biophotonicscio.com/author/lisa-l.-cunningham/</link>
+      <link>http://localhost:1313/author/lisa-l.-cunningham/</link>
     </image>
     
     <item>
       <title>Live-cell imaging of actin dynamics reveals mechanisms of stereocilia length regulation in the inner ear</title>
-      <link>https://biophotonicscio.com/publication/drummond-2015-live/</link>
+      <link>http://localhost:1313/publication/drummond-2015-live/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/drummond-2015-live/</guid>
+      <guid>http://localhost:1313/publication/drummond-2015-live/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

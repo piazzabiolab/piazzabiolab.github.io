@@ -17,6 +17,9 @@ main:
   - name: Team
     url: /people/       # Critical for listing students (CIO requirement)
     weight: 40
+  - name: Gallery
+    url: /gallery/
+    weight: 40
   - name: Contact
     url: /contact/
-    weight: 50
+    weight: 60

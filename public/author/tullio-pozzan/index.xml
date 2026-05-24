@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tullio Pozzan | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/tullio-pozzan/</link>
-      <atom:link href="https://biophotonicscio.com/author/tullio-pozzan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/tullio-pozzan/</link>
+      <atom:link href="http://localhost:1313/author/tullio-pozzan/index.xml" rel="self" type="application/rss+xml" />
     <description>Tullio Pozzan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Tullio Pozzan</title>
-      <link>https://biophotonicscio.com/author/tullio-pozzan/</link>
+      <link>http://localhost:1313/author/tullio-pozzan/</link>
     </image>
     
     <item>
       <title>Permeability and gating properties of human connexins 26 and 30 expressed in HeLa cells</title>
-      <link>https://biophotonicscio.com/publication/beltramello-2005-permeability/</link>
+      <link>http://localhost:1313/publication/beltramello-2005-permeability/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/beltramello-2005-permeability/</guid>
+      <guid>http://localhost:1313/publication/beltramello-2005-permeability/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

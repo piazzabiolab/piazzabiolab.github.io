@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sofía Quesada | Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/author/sofia-quesada/</link>
-      <atom:link href="https://biophotonicscio.com/author/sofia-quesada/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sofia-quesada/</link>
+      <atom:link href="http://localhost:1313/author/sofia-quesada/index.xml" rel="self" type="application/rss+xml" />
     <description>Sofía Quesada</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://biophotonicscio.com/author/sofia-quesada/avatar_hu_ece3068045afbbd3.png</url>
+      <url>http://localhost:1313/author/sofia-quesada/avatar_hu_2dd0e50263f45f4f.jpg</url>
       <title>Sofía Quesada</title>
-      <link>https://biophotonicscio.com/author/sofia-quesada/</link>
+      <link>http://localhost:1313/author/sofia-quesada/</link>
     </image>
     
   </channel>

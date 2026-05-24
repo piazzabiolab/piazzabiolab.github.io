@@ -2,182 +2,295 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biophotonics Research Group</title>
-    <link>https://biophotonicscio.com/</link>
-      <atom:link href="https://biophotonicscio.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Biophotonics Research Group</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://biophotonicscio.com/media/icon_hu_363526ba2cab9950.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Biophotonics Research Group</title>
-      <link>https://biophotonicscio.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>Example Event</title>
-      <link>https://biophotonicscio.com/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
+      <title>Carla Wins Best Poster Award at CIO PhD Sessions</title>
+      <link>http://localhost:1313/post/carla-mejorposter/</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/carla-mejorposter/</guid>
+      <description>&lt;p&gt;Carla Wins Best Poster Award at CIO PhD Sessions&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Axel Publishes a Science Outreach Article in NotiCIO</title>
+      <link>http://localhost:1313/post/20-12-01-noticio/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20-12-01-noticio/</guid>
+      <description>&lt;p&gt;Axel Publishes a Science Outreach Article in NotiCIO&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://online.pubhtml5.com/ovoj/jdut/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://online.pubhtml5.com/ovoj/jdut/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fernando Presents Research Poster at Conference in Spain</title>
+      <link>http://localhost:1313/post/20-12-02-fernandoesp/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/20-12-02-fernandoesp/</guid>
+      <description>&lt;p&gt;Fernando Presents Research Poster at Conference in Spain&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>H-ABC tubulinopathy exhibits a cytoskeletal defect associated with microtubule stability</title>
+      <link>http://localhost:1313/publication/jaramillo-2026-habc/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jaramillo-2026-habc/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>4-aminopyridine improves evoked potentials and ambulation in the taiep rat: A model of hypomyelination with atrophy of basal ganglia and cerebellum</title>
-      <link>https://biophotonicscio.com/publication/eguibar-2024-aminopyridine/</link>
+      <link>http://localhost:1313/publication/eguibar-20244-amino/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/eguibar-2024-aminopyridine/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/eguibar-20244-amino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrent optical inspection to boost characterization of plastic cortical bone under mechanical deformation</title>
+      <link>http://localhost:1313/publication/delatorre-2023-concurrent/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/delatorre-2023-concurrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRK12: A Key Player in Regulating the Phaseolus vulgaris-Rhizobium tropici Symbiotic Interaction</title>
+      <link>http://localhost:1313/publication/lecona-2023-crk-12/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lecona-2023-crk-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label-Free Non-Linear Optics for the Study of Tubulin-Dependent Defects in Central Myelin</title>
+      <link>http://localhost:1313/publication/piazza-2023-label/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/piazza-2023-label/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicomponent one-pot synthesis of luminescent imidazo [1, 2-a] pyridine-3-amines. Studies of fluorescence, solvatochromism, TD-DFT calculations and bioimaging application</title>
+      <link>http://localhost:1313/publication/kurva-2023-multi/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kurva-2023-multi/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://biophotonicscio.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://biophotonicscio.com/people/</link>
+      <link>http://localhost:1313/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tour</title>
-      <link>https://biophotonicscio.com/labtour/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/labtour/</guid>
+      <guid>http://localhost:1313/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H-ABC tubulinopathy revealed by label-free second harmonic generation microscopy</title>
-      <link>https://biophotonicscio.com/publication/alata-2022-h/</link>
+      <link>http://localhost:1313/publication/alata-2022-h/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/alata-2022-h/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/alata-2022-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMAGING APPROACHES FOR THE STUDY OF DEMYELINATION PROBLEMS IN H-ABC TUBULINOPATHY</title>
+      <link>http://localhost:1313/publication/milvia-2022-imaging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/milvia-2022-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myelin Imaging</title>
+      <link>http://localhost:1313/publication/piazza-2022-myelin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/piazza-2022-myelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface profile studies of photoinduced gratings made with DCG films with optional papain development</title>
+      <link>http://localhost:1313/publication/calixto-2022-surface/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calixto-2022-surface/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Auditory impairment in H-ABC tubulinopathy</title>
-      <link>https://biophotonicscio.com/publication/lopez-2021-auditory/</link>
+      <link>http://localhost:1313/publication/lopez-2021-auditory/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/lopez-2021-auditory/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/lopez-2021-auditory/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Carla envia imagenes a Axel!!</title>
-      <link>https://biophotonicscio.com/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Axel piensa que tambien son geniales las imagenes!!!!&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Cover Image, Volume 529, Issue 4</title>
+      <link>http://localhost:1313/publication/lopez-2021-cover/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopez-2021-cover/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fernando envia imagenes a Axel!!!</title>
-      <link>https://biophotonicscio.com/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Axel piensa que las imagenes son geniales!!!!&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Longitudinal Evaluation of Cerebellar Signs of H-ABC Tubulinopathy in a Patient and in the taiep Model</title>
+      <link>http://localhost:1313/publication/alata-2021-longitudinal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alata-2021-longitudinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REJILLAS OPTOFLUIDICAS USADAS COMO REFRACTÓMETROS</title>
+      <link>http://localhost:1313/publication/calixto-2021-rejillas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calixto-2021-rejillas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The myelin mutant taiep rat as a model for developmental brain disorders</title>
+      <link>http://localhost:1313/publication/eguibar-2021-myelin/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eguibar-2021-myelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3, 3&#39;-thiodipropanol as a refractive index matching mounting medium for fluorescence microscopy</title>
+      <link>http://localhost:1313/publication/tejedo-20203/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tejedo-20203/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>MRI features in a rat model of H-ABC tubulinopathy</title>
-      <link>https://biophotonicscio.com/publication/garduno-2020-mri/</link>
+      <link>http://localhost:1313/publication/garduno-2020-mri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/garduno-2020-mri/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/garduno-2020-mri/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Live-cell imaging of actin dynamics reveals mechanisms of stereocilia length regulation in the inner ear</title>
-      <link>https://biophotonicscio.com/publication/drummond-2015-live/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/drummond-2015-live/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Optofluidic gratings used in refractometers</title>
+      <link>http://localhost:1313/publication/calixto-2020-optofluidic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calixto-2020-optofluidic/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Revealing the structure of stereociliary actin by X-ray nanoimaging</title>
-      <link>https://biophotonicscio.com/publication/piazza-2014-revealing/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/piazza-2014-revealing/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>3, 3&#39;-thiodipropanol as a versatile refractive index-matching mounting medium for fluorescence microscopy</title>
+      <link>http://localhost:1313/publication/tejedo-20193/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tejedo-20193/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Multi-isotope imaging mass spectrometry reveals slow protein turnover in hair-cell stereocilia</title>
-      <link>https://biophotonicscio.com/publication/zhang-2012-multi/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/zhang-2012-multi/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Liquid refractive index measured through a refractometer based on diffraction gratings</title>
+      <link>http://localhost:1313/publication/calixto-2019-liquid/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calixto-2019-liquid/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Pathogenetic role of the deafness-related M34T mutation of Cx26</title>
-      <link>https://biophotonicscio.com/publication/bicego-2006-pathogenetic/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/bicego-2006-pathogenetic/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Liquids concentration measured through a refractometer based on diffraction gratings.</title>
+      <link>http://localhost:1313/publication/piazza-2019-liquids/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/piazza-2019-liquids/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Permeability and gating properties of human connexins 26 and 30 expressed in HeLa cells</title>
-      <link>https://biophotonicscio.com/publication/beltramello-2005-permeability/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/beltramello-2005-permeability/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Stimuli-responsive systems in optical humidity-detection devices</title>
+      <link>http://localhost:1313/publication/calixto-2019-stimuli/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calixto-2019-stimuli/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>A mechanism for sensing noise damage in the inner ear</title>
-      <link>https://biophotonicscio.com/publication/gale-2004-mechanism/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/gale-2004-mechanism/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Theranostic nanocomplex of gold-decorated upconversion nanoparticles for optical imaging and temperature-controlled photothermal therapy</title>
+      <link>http://localhost:1313/publication/ramirez-2019-theranostic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ramirez-2019-theranostic/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Permeability properties of Connexin 26 and Connexin 30 channels in the inner ear</title>
-      <link>https://biophotonicscio.com/publication/beltramello-2003-permeability/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/publication/beltramello-2003-permeability/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Tympanic membrane displacement and thickness data correlation using digital holographic interferometry and confocal laser scanning microscopy</title>
+      <link>http://localhost:1313/publication/santiago-2019-tympanic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/santiago-2019-tympanic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An immunoconjugated up-conversion nanocomplex for selective imaging and photodynamic therapy against HER2-positive breast cancer</title>
+      <link>http://localhost:1313/publication/ramirez-2018-immunoconjugated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ramirez-2018-immunoconjugated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Different routes into the glass state for soft thermo-sensitive colloids</title>
+      <link>http://localhost:1313/publication/rivas-2018-different/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rivas-2018-different/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction of TGA@CdTe Quantum Dots with an Extracellular Matrix of Haematococcus pluvialis Microalgae Detected Using Surface-Enhanced Raman dots</title>
+      <link>http://localhost:1313/publication/cepeda-2018-interaction/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cepeda-2018-interaction/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://biophotonicscio.com/admin/config.yml</link>
+      <link>http://localhost:1313/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://biophotonicscio.com/admin/config.yml</guid>
+      <guid>http://localhost:1313/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/labtour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/labtour/</guid>
+      <description>&lt;script type=&#34;module&#34; src=&#34;https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;model-viewer
+src=&#34;http://localhost:1313/models/lab-tour.glb&#34;
+alt=&#34;3D LiDAR representation of the Biophotonics Lab&#34;
+camera-controls
+auto-rotate
+style=&#34;width: 100%; height: 600px;&#34;&gt;
+&lt;/model-viewer&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
