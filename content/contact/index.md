@@ -23,9 +23,9 @@ sections:
         latitude: '21.154194772914632'
         longitude: '-101.70475741865903'
       directions: Enter Building H and take the stairs to Floor 1
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+#      office_hours:
+#        - 'Monday 10:00 to 13:00'
+#        - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: envelope
           icon_pack: fas

@@ -5,30 +5,43 @@
     <link>http://localhost:1313/publication-type/paper-conference/</link>
       <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Paper-Conference</title>
       <link>http://localhost:1313/publication-type/paper-conference/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A Learning Method to Estimate Multi-compartmental T2 Distributions with low Data Requirements</title>
+      <link>http://localhost:1313/publication/vallejo-2022-learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vallejo-2022-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3,3&#39;-thiodipropanol as a refractive index matching mounting medium for fluorescence microscopy</title>
+      <link>http://localhost:1313/publication/alata-2020-thiodipropanol/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alata-2020-thiodipropanol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optofluidic gratings used in refractometers</title>
+      <link>http://localhost:1313/publication/calixto-2020-optofluidic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calixto-2020-optofluidic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CALCIUM WAVES, CONNEXIN PERMEABILITY DEFECTS AND HEREDITARY DEAFNESS</title>
+      <link>http://localhost:1313/publication/piazza-2006-calcium/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/piazza-2006-calcium/</guid>
+      <description></description>
     </item>
     
   </channel>

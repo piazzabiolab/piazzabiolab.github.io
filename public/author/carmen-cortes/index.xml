@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/carmen-cortes/</link>
       <atom:link href="http://localhost:1313/author/carmen-cortes/index.xml" rel="self" type="application/rss+xml" />
     <description>Carmen Cortes</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Carmen Cortes</title>
@@ -13,39 +13,59 @@
     </image>
     
     <item>
+      <title>H-ABC tubulinopathy exhibits a cytoskeletal defect associated with microtubule stability</title>
+      <link>http://localhost:1313/publication/jaramillo-2026-habc/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jaramillo-2026-habc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>4-aminopyridine improves evoked potentials and ambulation in the taiep rat: A model of hypomyelination with atrophy of basal ganglia and cerebellum</title>
       <link>http://localhost:1313/publication/eguibar-2024-aminopyridine/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/eguibar-2024-aminopyridine/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>H-ABC tubulinopathy revealed by label-free second harmonic generation microscopy</title>
-      <link>http://localhost:1313/publication/alata-2022-h/</link>
+      <link>http://localhost:1313/publication/alata-2022-habc/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alata-2022-h/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/alata-2022-habc/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Auditory impairment in H-ABC tubulinopathy</title>
-      <link>http://localhost:1313/publication/lopez-2021-auditory/</link>
+      <title>Label-Free Non-Linear Optics for the Study of Tubulin-Dependent Defects in Central Myelin</title>
+      <link>http://localhost:1313/publication/piazza-2022-labelfree/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/piazza-2022-labelfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Evaluation of Cerebellar Signs of H-ABC Tubulinopathy in a Patient and in the taiep Model</title>
+      <link>http://localhost:1313/publication/alata-2021-longitudinal/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lopez-2021-auditory/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/publication/alata-2021-longitudinal/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>MRI features in a rat model of H-ABC tubulinopathy</title>
+      <title>The myelin mutant taiep rat as a model for developmental brain disorders</title>
+      <link>http://localhost:1313/publication/eguibar-2021-myelin/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eguibar-2021-myelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI Features in a Rat Model of H-ABC Tubulinopathy</title>
       <link>http://localhost:1313/publication/garduno-2020-mri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/garduno-2020-mri/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

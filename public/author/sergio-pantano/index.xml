@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>MRI features in a rat model of H-ABC tubulinopathy</title>
+      <title>MRI Features in a Rat Model of H-ABC Tubulinopathy</title>
       <link>http://localhost:1313/publication/garduno-2020-mri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/garduno-2020-mri/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +25,7 @@
       <link>http://localhost:1313/publication/bicego-2006-pathogenetic/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/bicego-2006-pathogenetic/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

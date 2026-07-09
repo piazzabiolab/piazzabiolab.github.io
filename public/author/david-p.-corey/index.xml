@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/david-p.-corey/</link>
       <atom:link href="http://localhost:1313/author/david-p.-corey/index.xml" rel="self" type="application/rss+xml" />
     <description>David P. Corey</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>David P. Corey</title>
@@ -13,21 +13,11 @@
     </image>
     
     <item>
-      <title>Live-cell imaging of actin dynamics reveals mechanisms of stereocilia length regulation in the inner ear</title>
-      <link>http://localhost:1313/publication/drummond-2015-live/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/drummond-2015-live/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Multi-isotope imaging mass spectrometry reveals slow protein turnover in hair-cell stereocilia</title>
       <link>http://localhost:1313/publication/zhang-2012-multi/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/zhang-2012-multi/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

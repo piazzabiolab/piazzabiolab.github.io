@@ -1,11 +1,12 @@
 ---
 title: Myelin Imaging
 authors:
-- V. Piazza
-- V. H. Hernandez
+- Valeria Piazza
+- Victor H. Hernandez
 date: '2022-01-01'
-publishDate: '2026-06-29T22:42:18.634462Z'
+publishDate: '2026-07-09T02:42:55.025145Z'
 publication_types:
-- article-journal
+- chapter
 publication: '*Advances in Brain Imaging Techniques*'
+doi: 10.1007/978-981-19-1352-5_5
 ---

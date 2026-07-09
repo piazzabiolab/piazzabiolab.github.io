@@ -14,9 +14,10 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: slider1.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.9
+          
           position: right
           color: '#666'
       - title: 3D Lab Tour
@@ -30,7 +31,7 @@ sections:
           position: center
           color: '#555'
         link:
-          icon: cube
+          icon: vr-cardboard 
           icon_pack: fas
           text: Open 3D tour
           url: ../labtour/
@@ -40,22 +41,22 @@ sections:
         align: right
         background:
           image:
-            filename: chamber1.jpeg
+            filename: slider3.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: camera
           icon_pack: fas
           text: Go to Gallery
           url: ../gallery/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '500px'
+      is_fullscreen: false
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000   
 

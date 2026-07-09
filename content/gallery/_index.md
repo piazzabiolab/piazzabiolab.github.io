@@ -12,33 +12,47 @@ sections:
         optical systems, and research highlights from our lab.
 
         <div class="row">
-          <div class="col-md-4 text-center">
+
+          <div class="col-md-4 text-center mb-4">
             <img src="sof.JPG" class="img-fluid">
-            <p><em>Fluorescence microscopy</em></p>
+            <p><em>Sofia at Work</em></p>
           </div>
 
-          <div class="col-md-4 text-center">
+          <div class="col-md-4 text-center mb-4">
             <img src="sputtchamber.jpeg" class="img-fluid">
-            <p><em>Optical setup</em></p>
+            <p><em>CIO Clean Room Sputtering</em></p>
           </div>
 
-          <div class="col-md-4 text-center">
-            <img src="flcube.JPG" class="img-fluid">
-            <p><em>Cell imaging experiment</em></p>
+          <div class="col-md-4 text-center mb-4">
+            <img src="sadsas.png" class="img-fluid">
+            <p><em>Axio A1 FL Conversion Adapter</em></p>
           </div>
-        </div>
 
-          <div class="col-md-4 text-center">
+          <div class="col-md-4 text-center mb-4">
             <img src="platina.jpeg" class="img-fluid">
-            <p><em>Cell imaging experimentd</em></p>
+            <p><em>Sample stage</em></p>
           </div>
-        </div>
 
-          <div class="col-md-4 text-center">
+          <div class="col-md-4 text-center mb-4">
             <img src="cells.jpg" class="img-fluid">
             <p><em>Cells</em></p>
           </div>
+
+          <div class="col-md-4 text-center mb-4">
+            <img src="cocleadan.jpeg" class="img-fluid">
+            <p><em>Mouse cochlea immunostained for neurofilaments</em></p>
+          </div>
+
+          <div class="col-md-4 text-center mb-4">
+            <img src="chiplogo.png" class="img-fluid">
+            <p><em>CIO in a Chip</em></p>
+          </div>
+
+          <div class="col-md-4 text-center mb-4">
+            <img src="pt-tubulin.png" class="img-fluid">
+            <p><em>Post-translational modifications of tubulin in tubulinopathy research</em></p>
+          </div>
+
         </div>
-
-
+        
 ---

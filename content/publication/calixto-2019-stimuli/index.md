@@ -1,12 +1,13 @@
 ---
-title: Stimuli-responsive systems in optical humidity-detection devices
+title: Stimuli-Responsive Systems in Optical Humidity-Detection Devices
 authors:
-- S. Calixto
-- V. Piazza
-- V. F. Marañon-Ruiz
+- Sergio Calixto
+- Valeria Piazza
+- Virginia Marañón-Ruiz
 date: '2019-01-01'
-publishDate: '2026-06-29T22:42:18.674610Z'
+publishDate: '2026-07-09T02:42:54.970927Z'
 publication_types:
 - article-journal
 publication: '*Materials*'
+doi: 10.3390/ma12020327
 ---

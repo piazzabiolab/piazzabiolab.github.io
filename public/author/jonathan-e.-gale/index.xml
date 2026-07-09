@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/jonathan-e.-gale/</link>
       <atom:link href="http://localhost:1313/author/jonathan-e.-gale/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan E. Gale</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
       <title>Jonathan E. Gale</title>
@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title>A mechanism for sensing noise damage in the inner ear</title>
-      <link>http://localhost:1313/publication/gale-2004-mechanism/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gale-2004-mechanism/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <title>Purinergic signalling and intercellular Ca2&#43; wave propagation in the organ of Corti</title>
+      <link>http://localhost:1313/publication/piazza-2007-purinergic/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/piazza-2007-purinergic/</guid>
+      <description></description>
     </item>
     
   </channel>

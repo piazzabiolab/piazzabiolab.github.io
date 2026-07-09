@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Angeles Garduño-Robles | Biophotonics Research Group</title>
+    <title>Angeles Garduno-Robles | Biophotonics Research Group</title>
     <link>http://localhost:1313/author/angeles-garduno-robles/</link>
       <atom:link href="http://localhost:1313/author/angeles-garduno-robles/index.xml" rel="self" type="application/rss+xml" />
-    <description>Angeles Garduño-Robles</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Angeles Garduno-Robles</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
-      <title>Angeles Garduño-Robles</title>
+      <title>Angeles Garduno-Robles</title>
       <link>http://localhost:1313/author/angeles-garduno-robles/</link>
     </image>
     
     <item>
-      <title>Auditory impairment in H-ABC tubulinopathy</title>
-      <link>http://localhost:1313/publication/lopez-2021-auditory/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lopez-2021-auditory/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MRI features in a rat model of H-ABC tubulinopathy</title>
+      <title>MRI Features in a Rat Model of H-ABC Tubulinopathy</title>
       <link>http://localhost:1313/publication/garduno-2020-mri/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/garduno-2020-mri/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

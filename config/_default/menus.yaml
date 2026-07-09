@@ -17,6 +17,9 @@ main:
   - name: Team
     url: /people/       # Critical for listing students (CIO requirement)
     weight: 40
+  - name: Latest News
+    url: /post/       # Critical for listing students (CIO requirement)
+    weight: 40
   - name: Gallery
     url: /gallery/
     weight: 40
