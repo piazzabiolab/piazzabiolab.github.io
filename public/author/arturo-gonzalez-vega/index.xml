@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arturo González Vega | Biophotonics Research Group</title>
+    <title>Arturo Gonzalez-Vega | Biophotonics Research Group</title>
     <link>http://localhost:1313/author/arturo-gonzalez-vega/</link>
       <atom:link href="http://localhost:1313/author/arturo-gonzalez-vega/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arturo González Vega</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Arturo Gonzalez-Vega</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_363526ba2cab9950.png</url>
-      <title>Arturo González Vega</title>
+      <url>http://localhost:1313/media/icon_hu_2e1b08163063fe5f.png</url>
+      <title>Arturo Gonzalez-Vega</title>
       <link>http://localhost:1313/author/arturo-gonzalez-vega/</link>
     </image>
     
     <item>
-      <title>Longitudinal Evaluation of Cerebellar Signs of H-ABC Tubulinopathy in a Patient and in the taiep Model</title>
-      <link>http://localhost:1313/publication/alata-2021-longitudinal/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alata-2021-longitudinal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3,3&#39;-thiodipropanol as a versatile refractive index-matching mounting medium for fluorescence microscopy</title>
-      <link>http://localhost:1313/publication/tejedo-2019-thiodipropanol/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tejedo-2019-thiodipropanol/</guid>
+      <title>A Learning Method to Estimate Multi-compartmental T2 Distributions with low Data Requirements</title>
+      <link>http://localhost:1313/publication/vallejo-2022-learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vallejo-2022-learning/</guid>
       <description></description>
     </item>
     

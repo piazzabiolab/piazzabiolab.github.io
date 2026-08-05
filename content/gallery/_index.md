@@ -40,7 +40,7 @@ sections:
 
           <div class="col-md-4 text-center mb-4">
             <img src="cocleadan.jpeg" class="img-fluid">
-            <p><em>Mouse cochlea immunostained for neurofilaments</em></p>
+            <p><em>Immunostained mouse cochlea</em></p>
           </div>
 
           <div class="col-md-4 text-center mb-4">
@@ -53,6 +53,20 @@ sections:
             <p><em>Post-translational modifications of tubulin in tubulinopathy research</em></p>
           </div>
 
+          <div class="col-md-4 text-center mb-4">
+            <img src="acet-tub.jpeg" class="img-fluid">
+            <p><em>Expanson microscopy of acetilated tubulin</em></p>
+          </div>
+
+          <div class="col-md-4 text-center mb-4">
+            <img src="MHolderv1.png" class="img-fluid">
+            <p><em>Photomask Holder V1</em></p>
+          </div>
+
+          <div class="col-md-4 text-center mb-4">
+            <img src="microrods.JPG" class="img-fluid">
+            <p><em>Microstructures on silice wafer</em></p>
+          </div>
         </div>
         
 ---

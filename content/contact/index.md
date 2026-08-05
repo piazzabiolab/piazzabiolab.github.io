@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '21.154194772914632'
         longitude: '-101.70475741865903'
-      directions: Enter Building H and take the stairs to Floor 1
+      directions: Enter Building H and take the stairs to basement floor.
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'

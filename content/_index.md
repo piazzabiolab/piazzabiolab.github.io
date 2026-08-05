@@ -105,6 +105,7 @@ sections:
       text: ""
       count: 5
       filters:
+        
         folders:
           - publication
         publication_type: 'article-journal'
