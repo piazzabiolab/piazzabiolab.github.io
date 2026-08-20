@@ -1,5 +1,5 @@
 ---
-title: Karen Castañeda
+title: Karen Castaño
 role: BSc Student
 user_groups:
   - Alumni

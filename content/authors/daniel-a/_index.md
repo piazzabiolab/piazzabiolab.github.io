@@ -2,7 +2,7 @@
 title: Daniel Hernández Velázquez
 role: Postdoc
 user_groups:
-  - Students
+  - Students and Postdocs
 organizations:
   - name: CIO
     url: https://www.cio.mx/

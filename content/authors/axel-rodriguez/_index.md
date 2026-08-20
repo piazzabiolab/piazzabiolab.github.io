@@ -1,8 +1,8 @@
 ---
-title: Axel Fernando Rodriguez Vazquez
+title: Axel F. Rodriguez Vazquez
 role: MSc Student
 user_groups:
-  - Students
+  - Students and Postdocs
 organizations:
   - name: CIO
     url: https://www.cio.mx/
@@ -19,9 +19,9 @@ social:
   #- icon: google-scholar
 #    icon_pack: ai
 #    link: ""
-#  - icon: github
-#    icon_pack: fab
-#    link: "#"
+  - icon: github
+    icon_pack: fab
+    link: "#"
 ---
 
 I am a master’s student working in the Biofotonics Lab under the supervision of Valeria Piazza at Centro de Investigaciones en Óptica. My work is centered around mechanobiology, microscopy, and the intersection between physics and biology.

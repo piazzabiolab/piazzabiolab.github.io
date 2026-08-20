@@ -2,14 +2,14 @@
 title: Carla Jaramillo Restrepo
 role: Phd Student
 user_groups:
-  - Students
+  - Students and Postdocs
 organizations:
   - name: CIO
     url: https://www.cio.mx/
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: "#"
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: "#"
   - icon: orcid
 
     icon_pack: ai

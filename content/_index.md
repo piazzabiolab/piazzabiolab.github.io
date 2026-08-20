@@ -9,7 +9,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Biophotonics Lab!
+      - title: Welcome to the Biophotonics Lab!
         content:
         align: center
         background:
@@ -58,19 +58,18 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000   
+      interval: 4000   
 
   - block: hero
     content:
       title: |
-        Piazza
-        Research Group
+        The Biophotonics Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Piazza Research Group** has been a center of excellence for biophotonics, teaching, and practice since its founding in 2014.
+        The **Biophotonics Lab** has been a center of excellence for biophotonics, teaching, and practice since its founding in 2014.
   - block: markdown
     content:
       title:
@@ -79,7 +78,6 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-  
   - block: collection
     content:
       title: Latest News

@@ -2,7 +2,7 @@
 title: Sofía Quesada
 role: Internship
 user_groups:
-  - Visitors
+ - Students and Postdocs
 organizations:
   - name: Ibero-CIO
     url: https://www.cio.mx/
