@@ -807,7 +807,7 @@
     <loc>http://localhost:1313/author/angeles-garduno/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/axel-fernando-rodriguez-vazquez/</loc>
+    <loc>http://localhost:1313/author/axel-f.-rodriguez-vazquez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/carla-jaramillo-restrepo/</loc>
@@ -822,10 +822,16 @@
     <loc>http://localhost:1313/author/fernando-resendiz/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/j-pablo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/juan-c.-martinez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/karen-castaneda/</loc>
+    <loc>http://localhost:1313/author/karen-castano/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/megan-perez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/sofia-quesada/</loc>

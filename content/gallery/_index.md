@@ -74,6 +74,18 @@ sections:
           </div>
         </div>
 
+          <div class="col-md-4 text-center mb-4">
+            <a href="#gallery-piazzagen1"><img src="piazzagen1.jpeg" class="img-fluid" alt="Old School"></a>
+            <p><em>Old School</em></p>
+          </div>
+
+          <div class="col-md-4 text-center mb-4">
+            <a href="#gallery-flsu8"><img src="flsu8.jpg" class="img-fluid" alt="Fluorescent Microstructures"></a>
+            <p><em>Fluorescent Microstructures</em></p>
+          </div>
+        </div>
+
+
         <div id="gallery-sofia" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-guanajuato" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="sof.JPG" alt="Sofia at work"><a href="#gallery-sputtering" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
         <div id="gallery-sputtering" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-sofia" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="sputtchamber.jpeg" alt="CIO clean room sputtering"><a href="#gallery-adapter" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
         <div id="gallery-adapter" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-sputtering" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="sadsas.png" alt="Axio A1 FL conversion adapter"><a href="#gallery-stage" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
@@ -86,5 +98,6 @@ sections:
         <div id="gallery-holder" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-acetylated" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="MHolderv1.png" alt="Photomask holder V1"><a href="#gallery-microrods" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
         <div id="gallery-microrods" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-holder" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="microrods.JPG" alt="Microstructures on a silica wafer"><a href="#gallery-guanajuato" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
         <div id="gallery-guanajuato" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-microrods" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="guanajuato.jpeg" alt="GTO Guanajuato"><a href="#gallery-sofia" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
-        
+        <div id="gallery-piazzagen1" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-piazzagen1" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="piazzagen1.jpeg" alt="Old School"><a href="#gallery" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
+        <div id="gallery-flsu8" class="gallery-lightbox"><a href="#gallery" class="gallery-lightbox-close" aria-label="Close image">×</a><a href="#gallery-piazzagen1" class="gallery-lightbox-nav gallery-lightbox-prev" aria-label="Previous image">‹</a><img src="flsu8.jpg" alt="Fluorescent Microstructures"><a href="#gallery-sofia" class="gallery-lightbox-nav gallery-lightbox-next" aria-label="Next image">›</a></div>
 ---

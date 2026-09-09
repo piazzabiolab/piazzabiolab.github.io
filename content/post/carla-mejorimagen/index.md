@@ -1,5 +1,5 @@
 ---
-title: PhD student Carla Maria Jaramillo image, has been selected as the WINNER of the Mexican Association of Microscopy and Microanalysis (AMMM
+title: PhD student Carla Maria Jaramillo image, has been selected as the one WINNERS of the Mexican Association of Microscopy and Microanalysis (AMMM
 date: 2026-07-09
 
 ---
