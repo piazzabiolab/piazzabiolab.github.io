@@ -14,3 +14,23 @@
     
   </channel>
 </rss>
+/image>
+    
+    <item>
+      <title>H-ABC tubulinopathy exhibits a cytoskeletal defect associated with microtubule stability</title>
+      <link>http://localhost:1313/publication/jaramillo-2026-habc/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jaramillo-2026-habc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H-ABC tubulinopathy revealed by label-free second harmonic generation microscopy</title>
+      <link>http://localhost:1313/publication/alata-2022-habc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alata-2022-habc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
